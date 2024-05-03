@@ -1,4 +1,4 @@
-# PI-IA-HUMAN
+# PLN - Text Classification
 
 ## 🔎 Objetivo
 
